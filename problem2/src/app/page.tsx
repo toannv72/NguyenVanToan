@@ -1,9 +1,5 @@
-import CurrencySwapForm from "@/components/CurrencySwapForm"; 
+import CurrencySwapForm from "@/components/CurrencySwapForm";
 
 export default function Home() {
-  return (
-    
-        <CurrencySwapForm />
-     
-  );
+  return <CurrencySwapForm />;
 }
